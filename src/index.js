@@ -3,7 +3,6 @@ const io  = require("./utensils/io")
 const Todos = new io ("./database/todos.json")
 const Todo = require("./model/to_do_model")
 const parser = require("./utensils/parse")
-const { parse } = require("node:path")
 
 
 const server = async (req, res) =>  {
