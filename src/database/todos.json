@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Water the plants",
+        "description": "Finish those ones in the front yard",
+        "isCompleted": true
+    },
+    {
+        "id": 2,
+        "title": "Clean the house",
+        "description": "Start cleaning from your own room and finish until the evening",
+        "isCompleted": false
+    }
+]
